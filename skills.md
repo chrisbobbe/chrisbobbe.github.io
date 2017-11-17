@@ -6,15 +6,15 @@ permalink: /skills
 
 # Here are some things I can do.
 
+* Migrate an app's routing system from React Router 3 to 4
+  * Routes are defined in the components themselves!
+  * Follow best practices in React
+    * with views founded on a component hierarchy where [data flows down](https://reactjs.org/docs/thinking-in-react.html)
+    * by taking full advantage of React before (carefully) adding Redux
 * Add a book tagging feature to an experimental book-publishing web app in **Java** [^1]
   * with an MVC pattern based on Java objects, .jsp files, and servlets
   * using DAO interfaces, implemented in classes, to send prepared statements to a PostgreSQL database
   * after designing an Entity Relationship Diagram (ERD) to describe database structure
-* Migrate an app's routing system from React Router 3 to 4
-  * Routes are defined in the components themselves!
-* Follow best practices in React
-  * with views founded on a component hierarchy where [data flows down](https://reactjs.org/docs/thinking-in-react.html)
-  * by taking full advantage of React before (carefully) adding Redux
 * Deploy a WordPress website
   * to Heroku, and connect it to an Amazon RDS instance running MySQL with an SSL connection
     * with keys and passwords stored in Heroku Config Variables
