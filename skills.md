@@ -6,7 +6,7 @@ permalink: /skills
 
 # Here are some things I can do.
 
-* Migrate an app's routing system from React Router 3 to 4
+* Migrate a web app's routing system from React Router 3 to 4
   * Routes are defined in the components themselves!
   * Follow best practices in React
     * with views founded on a component hierarchy where [data flows down](https://reactjs.org/docs/thinking-in-react.html)
@@ -26,7 +26,7 @@ permalink: /skills
 * Make myself more productive with my own code
   * One script uses the Gmail API to tell me when to unsubscribe from email lists I never read
   * Another implements a "find-X-largest-threads" method, using binary search, to give me batches of large email threads I can delete
-  * A custom TypeScript app in IFTTT connects my FitBit with the productivity tracker Beeminder to make sure I get enough sleep
+  * A custom TypeScript app in IFTTT connects my FitBit with the productivity tracker Beeminder to make sure I sleep enough
 
 --------
 

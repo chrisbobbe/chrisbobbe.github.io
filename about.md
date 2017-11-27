@@ -4,4 +4,5 @@ title: About
 permalink: /about
 ---
 
-This is the About page. More exciting things coming soon!
+Hi, I'm Chris Bobbe (pronounced "Bobby"). It's nice to see you!
+

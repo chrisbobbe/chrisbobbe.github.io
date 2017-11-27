@@ -1,0 +1,11 @@
+/**
+ * Proper sizing for the Google Doc iframe in resume page
+ */
+ iframe {
+   margin: 0;
+   padding: 0;
+   width: 100%;
+   height: 1000px;
+   border: none;
+   overflow: hidden;
+}
