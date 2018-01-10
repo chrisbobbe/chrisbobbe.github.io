@@ -22,7 +22,7 @@ google_analytics: UA-112211352-1
 markdown: kramdown
 remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
       
 # Necessary for Prologue theme:
 collections: [sections]
