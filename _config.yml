@@ -7,7 +7,7 @@ url: "https://chrisbobbe.github.io" # the base hostname & protocol for your site
 
 author: Chris Bobbe
 email: csbobbe@gmail.com
-country: United States of America
+avatar: assets/images/avatar.jpg
 
 # Social settings
 facebook_url: https://www.facebook.com/chris.bobbe
@@ -23,7 +23,7 @@ markdown: kramdown
 remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-sitemap
-      
+
 # Necessary for Prologue theme:
 collections: [sections]
 
