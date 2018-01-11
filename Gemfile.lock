@@ -166,7 +166,7 @@ GEM
       jekyll (~> 3.5)
       jekyll-github-metadata (~> 2.9)
       jekyll-seo-tag (~> 2.2)
-    jekyll-theme-prologue (0.2.3)
+    jekyll-theme-prologue (0.2.5)
     jekyll-theme-slate (0.1.0)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
