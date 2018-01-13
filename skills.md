@@ -1,6 +1,8 @@
 ---
 title: My Skills
 permalink: /skills
+order: 2
+hide: true
 ---
 
 # Here are some things I can do.
