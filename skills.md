@@ -6,7 +6,7 @@ permalink: /skills
 order: 2
 ---
 
-## Front-end
+### Front-end
 
 * Jekyll Themes
   * Build a [new Jekyll theme](https://github.com/chrisbobbe/jekyll-theme-prologue) from a single-page web template written in HTML5, Sass, and JavaScript
@@ -23,7 +23,7 @@ order: 2
   * Configure SSL between the database and Heroku with keys and passwords stored in Heroku Config Variables
   * [Deploy](http://www.mild-mandarin.com/) WordPress to WordPress.org with a hosting provider such as GreenGeeks
 
-## Full Stack
+### Full Stack
 
 * Java
   * Implement the Model-View-Controller pattern in a full-stack web app [^1]
@@ -31,6 +31,8 @@ order: 2
   * Use a DAO interface to send prepared statements to a PostgreSQL database
 * Google, Udacity
   * Win a [scholarship](https://www.udacity.com/grow-with-google) (Jan. to March 2018) to learn full stack development techniques and patterns (such as offline-first for slow connections)
+
+### Other
 
 * Make myself more productive with code
   * Use the Gmail API to [keep my mail neat](https://gist.github.com/chrisbobbe/072add64f2254c7a22b21b77eceb874c)
