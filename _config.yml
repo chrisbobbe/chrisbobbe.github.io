@@ -1,13 +1,13 @@
 title: Chris Bobbe
 subtitle: Web Developer
 description: Website and portfolio of Chris Bobbe, front-end web developer.
-# You'll want to customize baseurl for your own site:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chrisbobbe.github.io" # the base hostname & protocol for your site
 
 author: Chris Bobbe
 email: csbobbe@gmail.com
 avatar: assets/images/avatar.jpg
+
+baseurl: ""
+url: "https://chrisbobbe.github.io"
 
 # Social settings
 facebook_url: https://www.facebook.com/chris.bobbe
@@ -26,15 +26,3 @@ plugins:
 
 # Necessary for Prologue theme:
 collections: [sections]
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
