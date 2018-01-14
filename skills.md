@@ -36,7 +36,10 @@ order: 2
 
 * Make myself more productive with code
   * Use the Gmail API to [keep my mail neat](https://gist.github.com/chrisbobbe/072add64f2254c7a22b21b77eceb874c)
-  * A [custom TypeScript app in IFTTT](https://gist.github.com/chrisbobbe/4d2f79af65efdfa31e49bf00f983c779) connects my FitBit with the productivity tracker Beeminder to make sure I sleep enough
+  * A [custom TypeScript app in IFTTT](https://gist.github.com/chrisbobbe/4d2f79af65efdfa31e49bf00f983c779) connects my Fitbit with the productivity tracker Beeminder to make sure I sleep enough
+* Well-rounded formal education:
+  * [B.A., English, Haverford College](https://www.haverford.edu/english)
+  * [High School Diploma, North Carolina School of Science and Mathematics](https://www.ncssm.edu/)
 
 --------
 
