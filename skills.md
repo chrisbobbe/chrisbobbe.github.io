@@ -34,9 +34,13 @@ order: 2
 
 ### Other
 
-* Make myself more productive with code
-  * Use the Gmail API to [keep my mail neat](https://gist.github.com/chrisbobbe/072add64f2254c7a22b21b77eceb874c)
-  * A [custom TypeScript app in IFTTT](https://gist.github.com/chrisbobbe/4d2f79af65efdfa31e49bf00f983c779) connects my Fitbit with the productivity tracker Beeminder to make sure I sleep enough
+* I make myself more productive with code
+  * Ise the Gmail API to [keep my mail neat](https://gist.github.com/chrisbobbe/072add64f2254c7a22b21b77eceb874c)
+  * I made a [custom TypeScript app in IFTTT](https://gist.github.com/chrisbobbe/4d2f79af65efdfa31e49bf00f983c779) connects my Fitbit with the productivity tracker Beeminder to make sure I sleep enough
+* A full 12-week batch at the [Recurse Center](https://www.recurse.com/) in New York, writing code for projects full-time
+  * I spent lots of time learning JavaScript properly
+  * Pair programmed on a [Fortune's Algorithm (Voronoi diagram) implementation in C++](https://github.com/mtn/voronoi)
+  *
 * Well-rounded formal education:
   * [B.A., English, Haverford College](https://www.haverford.edu/english)
   * [High School Diploma, North Carolina School of Science and Mathematics](https://www.ncssm.edu/)
