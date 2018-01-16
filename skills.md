@@ -30,7 +30,7 @@ order: 2
   * Design an Entity Relationship Diagram (ERD) to describe database structure
   * Use a DAO interface to send prepared statements to a PostgreSQL database
 * Google, Udacity
-  * Win a [scholarship](https://www.udacity.com/grow-with-google) (Jan. to March 2018) to learn full stack development techniques and patterns (such as offline-first for slow connections)
+  * Win a [scholarship](https://www.udacity.com/grow-with-google) (Jan. to March 2018) to learn full stack mobile-first development techniques and patterns (such as offline-first for slow connections)
 
 ### Other
 
