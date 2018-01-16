@@ -19,7 +19,6 @@ twitter_url: https://twitter.com/chrisbobbe
 google_analytics: UA-112211352-1
 
 # Build settings
-markdown: kramdown
 remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-sitemap

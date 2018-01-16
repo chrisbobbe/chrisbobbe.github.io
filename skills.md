@@ -19,9 +19,9 @@ order: 2
   * Follow best practices in React with views in a component hierarchy where [data flows down](https://reactjs.org/docs/thin king-in-react.html)
   * Take full advantage of React before carefully adding Redux
 * WordPress
-  * Deploy a WordPress website to Heroku and connect it to an Amazon RDS instance running MySQL [^2]
+  * Deploy WordPress manually to Heroku and connect it to an Amazon RDS instance running MySQL [^2]
   * Configure SSL between the database and Heroku with keys and passwords stored in Heroku Config Variables
-  * [Deploy](http://www.mild-mandarin.com/) WordPress to WordPress.org with a hosting provider such as GreenGeeks
+  * [Deploy WordPress](http://www.mild-mandarin.com/) using a hosting provider such as GreenGeeks
 
 ### Full Stack
 
@@ -35,12 +35,14 @@ order: 2
 ### Other
 
 * I make myself more productive with code
-  * Ise the Gmail API to [keep my mail neat](https://gist.github.com/chrisbobbe/072add64f2254c7a22b21b77eceb874c)
+  * I use the Gmail API to [keep my mail neat](https://gist.github.com/chrisbobbe/072add64f2254c7a22b21b77eceb874c)
   * I made a [custom TypeScript app in IFTTT](https://gist.github.com/chrisbobbe/4d2f79af65efdfa31e49bf00f983c779) connects my Fitbit with the productivity tracker Beeminder to make sure I sleep enough
 * A full 12-week batch at the [Recurse Center](https://www.recurse.com/) in New York, writing code for projects full-time
-  * I spent lots of time learning JavaScript properly
-  * Pair programmed on a [Fortune's Algorithm (Voronoi diagram) implementation in C++](https://github.com/mtn/voronoi)
-  *
+  * I grew by immersion in conversations far above my level
+  * I learned to [ask good questions and push myself](https://www.recurse.com/manual)
+  * I spent lots of time learning JavaScript properly (ES5 and ES6)
+  * I pair programmed on a [Fortune's Algorithm (Voronoi diagram) implementation in C++](https://github.com/mtn/voronoi) for three weeks
+  * Studied machine learning theory
 * Well-rounded formal education:
   * [B.A., English, Haverford College](https://www.haverford.edu/english)
   * [High School Diploma, North Carolina School of Science and Mathematics](https://www.ncssm.edu/)
