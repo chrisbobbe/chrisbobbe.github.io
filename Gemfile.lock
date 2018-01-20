@@ -234,9 +234,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed (~> 0.6)
+  jekyll-sitemap
   jekyll-theme-prologue
-  tzinfo-data
 
 BUNDLED WITH
    1.16.1
