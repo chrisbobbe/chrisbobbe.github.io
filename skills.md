@@ -25,7 +25,7 @@ order: 2
 ## Full Stack
 
 ### Java
-* Implement the Model-View-Controller pattern in a full-stack web app [^1]
+* Implement the Model-View-Controller pattern in a full-stack web app
 * Design an Entity Relationship Diagram (ERD) to describe database structure
 * Use a DAO interface to send prepared statements to a PostgreSQL database
 
