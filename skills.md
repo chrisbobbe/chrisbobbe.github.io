@@ -30,7 +30,7 @@ order: 2
 * Use a DAO interface to send prepared statements to a PostgreSQL database
 
 ### Google, Udacity
-* Win a [scholarship](https://www.udacity.com/grow-with-google) (Jan. to March 2018) to learn full stack mobile-first development techniques and patterns (such as offline-first for slow connections)
+* Win a [scholarship](https://www.udacity.com/grow-with-google) (Jan. to April 2018) to learn full stack mobile-first development techniques and patterns (such as offline-first for slow connections)
 
 ### WordPress
 * Deploy WordPress manually to Heroku and connect it to an Amazon RDS instance running MySQL. (I later [switched](http://www.mild-mandarin.com/) to GreenGeeks because Heroku's ephemeral file system isn't best suited for WordPress.)
@@ -43,7 +43,7 @@ order: 2
 
 * I work equally well with class-based inheritance (e.g., Java) and JavaScript's prototypal inheritance.
 * I know how ES6's illusion of class-based inheritance works under the hood.
-* I can build a car from scratch with Java classes and interfaces:
+* I can [build a car](https://github.com/chrisbobbe/java-car) from scratch with Java classes and interfaces:
 
 <img src="assets/images/car.png" alt="Demo: Command-line Car" style="border: 1px solid black"/>
 
