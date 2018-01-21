@@ -17,7 +17,7 @@ myObj = {
   name: "foo",
   hairColor: "brown",
   someMethod: function() {
-    // some code here;
+    // method code here;
   }
 }
 ```
@@ -29,9 +29,9 @@ myObj = {
   name: "foo",
   hairColor: "brown",
   someMethod() {
-    // some code here;
+    // method code here;
   }
 }
 ```
 
-I see that it's shorter, which might make it better, and I've [read](https://ariya.io/2013/03/es6-and-method-definitions) that it brings method definitions more in line with how `get() { ... }` and `set() { ... }` are defined in ES5, which are both fair points. But I'm used to reading JavaScript objects as key-value pairs, and part of me misses the colon. What's more, given the new kind of [`this`-scoping](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md#lexical-this) we see in arrow functions (also ES6), I have some trouble processing a strange third thing that uses neither the `function` keyword nor the arrow `=>`. Even now, I'm not sure I can say confidently how `this` would work inside a method defined without a colon. I'm sure I will one day.
+I see that it's shorter, which might make it better, and I've [read](https://ariya.io/2013/03/es6-and-method-definitions) that it brings method definitions more in line with how `get() { ... }` and `set() { ... }` are defined in ES5, which are both fair points. But I'm used to reading JavaScript objects as key-value pairs, and part of me misses the colon. What's more, given the new kind of [`this`-scoping](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md#lexical-this) we see in arrow functions (also ES6), I have some trouble processing a strange third thing that uses neither the `function` keyword nor the arrow `=>`. Even now, I'm not sure I can say confidently how `this` would work inside a method defined the new way. I'm sure I will one day.
